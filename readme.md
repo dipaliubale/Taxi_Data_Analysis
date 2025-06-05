@@ -1,6 +1,3 @@
-#Project Partners
-	Shraddha Jagtap (23111019)
-	Dipali Ubale (23111013)
 
 # Data links
 
